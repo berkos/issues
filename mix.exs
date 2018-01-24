@@ -19,6 +19,7 @@ defmodule Issues.Mixfile do
   def application do
     [applications: [:logger, :httpoison]]
   end
+
   # Dependencies can be Hex packages:
   #
   #   {:mydep, "~> 0.3.0"}
